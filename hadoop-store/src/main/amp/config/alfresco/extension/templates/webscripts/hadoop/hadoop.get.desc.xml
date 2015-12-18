@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>Hadoop Content Store</shortname>
+  <description>Hadoop Content Store</description>
+  <url>/hadoop/store?path={directory}</url>
+  <authentication>user</authentication>
+  <format default="html"></format>
+</webscript>                         
+              

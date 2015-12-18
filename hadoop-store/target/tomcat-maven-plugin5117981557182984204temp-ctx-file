@@ -1,0 +1,5 @@
+<Context docBase="/home/david/ownCloud/linux_eclipse/hadoop-store/target/hadoop-store-war" path="/alfresco" reloadable="false" backgroundProcessorDelay="-1">
+  <Resources extraResourcePaths="/=/home/david/ownCloud/linux_eclipse/hadoop-store/target/hadoop-store/web" className="org.apache.naming.resources.VirtualDirContext"/>
+  <Loader virtualClasspath="/home/david/ownCloud/linux_eclipse/hadoop-store/target/classes;/home/david/ownCloud/linux_eclipse/hadoop-store/target/hadoop-store/config;/home/david/ownCloud/linux_eclipse/hadoop-store/target/test-classes" className="org.apache.catalina.loader.VirtualWebappLoader" searchVirtualFirst="true"/>
+  <JarScanner scanAllDirectories="true"/>
+</Context>

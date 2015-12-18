@@ -1,0 +1,17 @@
+
+h1 {
+    color: #2ecc71;
+    margin: 0px;
+}
+
+figure figcaption {
+	text-align:center;
+}
+
+div.success {
+	color: #2ecc71;
+}
+
+div.fail{
+	color: #ff0000;
+}

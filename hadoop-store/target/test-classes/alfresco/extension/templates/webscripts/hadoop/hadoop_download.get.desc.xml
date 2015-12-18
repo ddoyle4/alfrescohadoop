@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>Hadoop Content Store - Upload</shortname>
+  <description>Uploads a file to the current directory</description>
+  <url>/hadoop/store/download?path={filePath}</url>
+  <authentication>user</authentication>
+  <format default="html"></format>
+</webscript>                         
+              
